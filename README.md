@@ -178,7 +178,8 @@ A machine learning-based financial fraud detection application that analyzes tra
 
 ## 👩‍💻 Author
 
-**Sodari Ravali**
+Kranth
+
 
 B.Tech – Computer Science and Data Science
 
